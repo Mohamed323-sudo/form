@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    background-color: antiquewhite;
+    width: 80%;
+    margin: auto;
+    text-align: justify;
+    padding: 10px;
+}
